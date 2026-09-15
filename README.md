@@ -34,4 +34,4 @@ python notifier.py --telegram-token "123456:ABC-DEF1234ghIkl-zyx" --telegram-cha
 * `--state-file`: Custom path for the state tracking file (defaults to `~/.epic_notified.json`)
 * `--verbose`: Output step-by-step logs to stderr for debugging scheduled tasks
 
-<!-- refreshed: 2026-09-14 -->
+<!-- refreshed: 2026-09-15 -->
